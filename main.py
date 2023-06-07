@@ -72,7 +72,7 @@ for filepath in filepaths:
 
     pdf.set_font(family="Times", size=13, style="B")
 
-    pdf.cell(w=30, h=8, txt="ModernMonk")
+    pdf.cell(w=30, h=8, txt="ModernMonk27")
     pdf.image("spirit.png", w=10)
 
 
